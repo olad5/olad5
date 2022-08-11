@@ -1,10 +1,9 @@
 ### Hi there, I'm Francis  👋 
 
-- 🔭 I’m currently working on a personal projects.
-- 🌱 I’m currently learning MERN stack.
+- 🔭 I’m a Full Stack software engineer.
+- 🌱 I’m currently learning about Software architecture and API design Patterns.
 - 👯 I’m looking to collaborate on exciting projects that would solve real world problems.
-- 👀 Looking for junior roles.
-- 🥅 2022 Goals: Learn typescript and probably Go. 🤞 
+- 🥅 2022 Goals: Learn typescript and probably Go lang. 🤞 
 
 
 ### Languages and Frameworks:
@@ -16,6 +15,7 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> </a>
     <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="typescript" width="40" height="40" /> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /> </a>
+    <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" alt="next-js" width="40" height="40" /> </a>
     <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" /> </a>
     <a href="https://nodejs.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="node" width="60" height="50" /> </a>
     <a href="https://python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> </a>
@@ -27,6 +27,9 @@
 <p align="left">
     <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40" /> </a>
     <a href="https://cloud.mongodb.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" /> </a>
+    <a href="https://postgresql.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40" /> </a>
+    <a href="https://docker.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40" /> </a>
+    <a href="https://heroku.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" alt="heroku" width="40" height="40" /> </a>
     <a href="https://vim.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="vim" width="40" height="40" /> </a>
     <a href="#" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /> </a>
 </p>
@@ -40,8 +43,4 @@
 </p>
 
 
-
-
-[![Francis's GitHub stats](https://github-readme-stats.vercel.app/api?username=olad5)](https://github.com/olad5)
-<br />
 
